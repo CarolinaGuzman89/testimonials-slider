@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  font-family: 'Inter', sans-serif;
+  font-family: 'Manrope', sans-serif;
+  font-family: 'Roboto', sans-serif;
+  font-family: 'Rubik', sans-serif;
+  line-height: 1.5;
+  color: hsl(240, 38%, 20%);
+
+}
